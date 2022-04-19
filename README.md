@@ -1,1 +1,1 @@
-# M2_project
+# M2_smart-detector
