@@ -22,3 +22,38 @@ In ultrasonic module HCSR04, we have to give trigger pulse, so that it will gene
 # USES
 * IT HELPS IN DETECTING THE OBSTACLES
 * IT HELPS TO RECOGNIZE THE OBSTACLES IN FRONT THROUGH BUZZER
+---------------------------------------------------------------------------------------------------
+# 4W & H   (WHO,WHAT,WHEN,WHERE,HOW)
+---------------------------------------------------------------------------------------------------
+# *WHO
+* SMART DETECTOR IS THE APPLICATION USED TO DETECT OBJECTIVES IN FRONT OF IT AND IS USED FOR BLIND PERSON OR EYE ISSUERS
+# *WHAT
+*  IT IS CONVIENT AND EASY TO USE
+# *WHEN
+* IT CAN BE USED BY ANYONE IN ANY TIME MOSTLY  
+# *WHERE
+* IT CAN BE USED NEARBY U OR TO SOME ANOTHER PLACES
+# *HOW 
+* IT IS EASY TO OPERATE BY WHICH AN ORDIRAY MAN CAN OPERATE IT EASILY AND IT GIVES THE RESULTS TOO EASY
+
+-----------------------------------------------------------------------------------------------------
+# * SWOT(STRENGTH,WEAKNESS,OPPORTUNITY,THREATS)
+-----------------------------------------------------------------------------------------------------
+# *STRENGTH
+* HELPS BLIND PEOPLE TO WALK EASILY TO DESTINATION
+* HELPS BLIND PEOPLE FOR OBSTACLES DETECTION
+* ALERT THEM FOR DIG 
+* AUTODETECTION HELPS IN ALARMING
+* SIMPLE AND LOW COST
+# * WEAKNESS
+* LIMITED
+* GPS TRACKING CAN BE DECTECTED UPTO 40M
+* LITTLE SENSOR SUPPORT
+# * OPPORTUNITY
+* GPS TRACK TO EXTEND
+* IOT 
+* LCD DISPLAY
+# * THREATS
+* POWER CONSUMPTION
+* SENSOR DISCONNECTS
+* FAIL OF COMPONENTS
