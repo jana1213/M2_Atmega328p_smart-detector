@@ -1,7 +1,6 @@
 # M2_smart-detector
 # code quality ![code quality score](https://api.codiga.io/project/32870/score/svg)
 # code grade![code grade](https://api.codiga.io/project/32870/status/svg)
-# codacy ?
 # cppcheck [![Cppcheck Analysis](https://github.com/jana1213/M2_smart-detector/actions/workflows/cppcheck_analysis.yml/badge.svg)](https://github.com/jana1213/M2_smart-detector/actions/workflows/cppcheck_analysis.yml)
 # * AtMega328p smart-detector
 # @ off condition
