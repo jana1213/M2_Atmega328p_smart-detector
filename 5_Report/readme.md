@@ -18,6 +18,15 @@ In ultrasonic module HCSR04, we have to give trigger pulse, so that it will gene
 * BUZZERS
 * LED
 * VOLTAGE SUPPLY
+---------------------------------------------------------------------------------------------------------------------
+# High  level requirments
+![HL](https://user-images.githubusercontent.com/101693748/164510426-b39f941e-9113-4a60-89fe-bc6a7f26833b.png)
+# Low level requirments
+![LL](https://user-images.githubusercontent.com/101693748/164510683-c055f0a0-0414-48f3-87ad-4c2d2f004bd3.png)
+--------------------------------------------------------------------------------------------------------------------
+# Diagrams
+
+
 
 # USES
 * IT HELPS IN DETECTING THE OBSTACLES
