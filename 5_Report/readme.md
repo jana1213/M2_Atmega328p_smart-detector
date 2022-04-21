@@ -40,6 +40,12 @@ In ultrasonic module HCSR04, we have to give trigger pulse, so that it will gene
 ![OF](https://user-images.githubusercontent.com/101693748/164054453-2c518578-3da9-4c48-aeb8-c54af68b0c85.png)
 # @ on condition
 ![CIRCUIT](https://user-images.githubusercontent.com/101693748/164054571-9741bf62-4b37-4b08-8198-7add3db3e9df.png)
+# presentation video
+
+
+https://user-images.githubusercontent.com/101693748/164513431-ad5048d2-65bd-44ba-b893-618686cb1c0b.mp4
+
+
 
 # USES
 * IT HELPS IN DETECTING THE OBSTACLES
