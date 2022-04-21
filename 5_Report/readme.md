@@ -35,14 +35,11 @@ In ultrasonic module HCSR04, we have to give trigger pulse, so that it will gene
 ![DATA FLOW](https://user-images.githubusercontent.com/101693748/164353044-e4383b4d-51d2-41aa-a054-f7c6ae6ea751.png)
 # SCHEMATIC DIAGRAM
 ![CIRCUIT](https://user-images.githubusercontent.com/101693748/164353082-6f033582-2362-4563-90d6-48dd0cf7b3f1.png)
-
-
-
-
-
-
-
-
+# output
+# @ off condition
+![OF](https://user-images.githubusercontent.com/101693748/164054453-2c518578-3da9-4c48-aeb8-c54af68b0c85.png)
+# @ on condition
+![CIRCUIT](https://user-images.githubusercontent.com/101693748/164054571-9741bf62-4b37-4b08-8198-7add3db3e9df.png)
 
 # USES
 * IT HELPS IN DETECTING THE OBSTACLES
